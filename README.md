@@ -20,6 +20,7 @@ I'm a passionate **[Embedded System Engineer & Front-End Developer]** with exper
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-007ACC?style=flat-square&logoColor=white)
+![Interfacing](https://img.shields.io/badge/-Interfacing-007ACC?style=flat-square&logoColor=white)
 ![Microcontroller](https://img.shields.io/badge/-Microcontroller-007ACC?style=flat-square&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001D26?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)

@@ -13,14 +13,12 @@ I'm a passionate **[Embedded System Engineer & Front-End Developer]** with exper
 - 📫 How to reach me: **[hossamjamalelhelw@gmail.com]**
 
 ## My Skills 🧠
-## My Skills 🧠
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
-  <div style="background-color: #007ACC; color: #fff; padding: 5px 10px; border-radius: 5px;">
-    <i class="fab fa-cuttlefish"></i> C
+  <div style="background-color: #007ACC; padding: 5px; border-radius: 5px;">
+    <img src="url_to_c_icon_image" alt="C Icon" width="40" height="40">
   </div>
-  <div style="background-color: #F7DF1E; color: #000; padding: 5px 10px; border-radius: 5px;">
-    <i class="fab fa-js"></i> JavaScript
+  <div style="background-color: #F7DF1E; padding: 5px; border-radius: 5px;">
+    <img src="url_to_js_icon_image" alt="JavaScript Icon" width="40" height="40">
   </div>
   <!-- Add more skills here -->
 </div>

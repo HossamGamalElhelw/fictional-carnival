@@ -15,7 +15,7 @@ I'm a passionate **[Embedded System Engineer & Front-End Developer]** with exper
 ## My Skills 🧠
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
   <div style="background-color: #007ACC; padding: 5px; border-radius: 5px;">
-    <img src="url_to_c_icon_image" alt="C Icon" width="40" height="40">
+    <i class="fa-brands fa-js"></i>
   </div>
   <div style="background-color: #F7DF1E; padding: 5px; border-radius: 5px;">
     <img src="url_to_js_icon_image" alt="JavaScript Icon" width="40" height="40">

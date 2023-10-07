@@ -1,7 +1,7 @@
 # fictional-carnival
 # Hi there, I'm [Hossam Gamal]! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]([your_banner_image_url_here](https://media.licdn.com/dms/image/D4D03AQE2cWLDz5Uidw/profile-displayphoto-shrink_800_800/0/1675024468875?e=1701907200&v=beta&t=DfWAwOHyRw-FEmjzpKxhrBozut4qGfJ5yuJ6Zoead30))
 
 ## About Me 🚀
 

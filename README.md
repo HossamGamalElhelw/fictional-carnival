@@ -6,14 +6,16 @@
 </div>
 
 ## About Me 🚀
+
 I'm not just an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusiast with a passion for **[C, Microcontroller 8051, Arm, ROTS, Python, JavaScript, HTML, CSS, React.js]**. 
 
 🌟 I thrive on conquering complex challenges, always on the lookout for opportunities to learn and grow. Collaboration is my superpower, and I enjoy working with diverse teams to craft innovative solutions.
 
-🌱 Currently exploring: **[Embedded System Interfacing]**
-🔭 Currently working on: **[Freelance Projects]**
-🌍 Fluent in: **[English]**
-📫 Reach out to me at: **[hossamjamalelhelw@gmail.com]**
+- 🌱 Currently exploring: **[Embedded System Interfacing]**
+- 🔭 Currently working on: **[Freelance Projects]**
+- 🌍 Fluent in: **[English]**
+- 📫 Reach out to me at: **[hossamjamalelhelw@gmail.com]**
+
 
 
 ## My Skills 🧠

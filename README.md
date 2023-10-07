@@ -13,8 +13,18 @@ I'm a passionate **[Embedded System Engineer & Front-End Developer]** with exper
 - 📫 How to reach me: **[hossamjamalelhelw@gmail.com]**
 
 ## My Skills 🧠
-![C](https://img.shields.io/badge/-C-007ACC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## My Skills 🧠
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; align-items: center;">
+  <div style="background-color: #007ACC; color: #fff; padding: 5px 10px; border-radius: 5px;">
+    <i class="fab fa-cuttlefish"></i> C
+  </div>
+  <div style="background-color: #F7DF1E; color: #000; padding: 5px 10px; border-radius: 5px;">
+    <i class="fab fa-js"></i> JavaScript
+  </div>
+  <!-- Add more skills here -->
+</div>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)

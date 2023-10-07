@@ -33,7 +33,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ## Featured Projects 💻
 
-### [Employees Management](project_1_link)
+### [Employees Management](https://github.com/HossamGamalElhelw/Employees-Management)
 
 ![Project 1 Screenshot](Images/System Emloyee.png)
 

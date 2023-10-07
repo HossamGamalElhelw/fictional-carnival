@@ -7,11 +7,10 @@
 
 I'm a passionate **[Embedded System Engineer & Front-End Developer]** with experience in **[C , Microcontroller , Arm , Rots & Python , JavaScript , Html , Css , React.js]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **[Embedded System interfacing]**
 - 🔭 Working on: **[Freelance]**
 - 🌍 Languages: **[English]**
 - 📫 How to reach me: **[hossamjamalelhelw@gmail.com]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
 
 ## My Skills 🧠
 

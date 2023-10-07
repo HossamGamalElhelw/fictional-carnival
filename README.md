@@ -41,7 +41,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 
-![Project 2 Screenshot](Mapty)
+![Project 2 Screenshot](Mapty.png)
 
 **[Mapty]** is a **[The project "Mapty" is a cool and innovative application that allows users to pinpoint their location on a map and track their running or cycling activities. With Mapty, you can not only mark your starting and ending points but also keep a record of the distance covered, the duration of your trip, and even your cadence.  ]** built with **[HTML , CSS ,JavaScript , Mapping and Location Services ,APIs ,Security,Testing and Quality Assurance**]**. You can check out the repository [Mapty](https://github.com/HossamGamalElhelw/Mapty). [Live Demo](https://hossamgamalelhelw.github.io/Mapty/)
 

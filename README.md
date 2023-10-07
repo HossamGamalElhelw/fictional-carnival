@@ -35,9 +35,18 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ### [Employees Management](project_1_link)
 
-![Project 1 Screenshot](project_1_screenshot_url)
+![Project 1 Screenshot](Images/System Emloyee.png)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+**[Employees Management]** is a **[Employee Management System
+This program allows you to manage a list of employees.
+You can perform the following options:
+1. Add a new employee to the list.
+2. View the list of all employees.
+3. Search Employee Data: Find and display information about a specific employee.
+4. Edit Employee Data: Modify the data of employee.
+5. Delete Employee Data: Remove an employee from the list.
+6. Filter Employees by Salary: View employees with a salary above a specified minimum.
+7. Exit: Quit the program.]** built with **[Linked List , MakeFile]**.
 
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 

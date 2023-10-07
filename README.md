@@ -35,7 +35,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ### [Employees Management](https://github.com/HossamGamalElhelw/Employees-Management)
 
-![Project 1 Screenshot](./Images/System Emloyee.png)
+![Project 1 Screenshot](https://github.com/HossamGamalElhelw/fictional-carnival/blob/39cdc766be04e8ef8a3fe360bf342e898752a56f/Images/System%20Emloyee.png)
 
 **[Employees Management]** is a **[Employee Management System
 This program allows you to manage a list of employees.

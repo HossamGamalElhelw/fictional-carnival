@@ -33,7 +33,7 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### [Employees Management](project_1_link)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 

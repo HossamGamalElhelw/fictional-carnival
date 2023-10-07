@@ -2,7 +2,7 @@
 # Hi there, I'm [Hossam Gamal]! 👋
 
 <div align="center">
-  <img src="https:Embedded-Systems-Architecture-1.jpg" alt="Banner Image">
+  <img src="Embedded-Systems-Architecture-1.jpg" alt="Banner Image">
 </div>
 
 ## About Me 🚀

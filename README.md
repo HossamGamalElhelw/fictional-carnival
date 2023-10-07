@@ -46,7 +46,7 @@ You can perform the following options:
 4. Edit Employee Data: Modify the data of employee.
 5. Delete Employee Data: Remove an employee from the list.
 6. Filter Employees by Salary: View employees with a salary above a specified minimum.
-7. Exit: Quit the program.]** built with **[Linked List , MakeFile]**.
+7. Exit: Quit the program.** built with **[C , single Linked List , Makefile]**.
 
 ### [Mapty](https://github.com/HossamGamalElhelw/Mapty)
 

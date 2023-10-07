@@ -31,8 +31,6 @@ I'm an **[Embedded System Engineer & Front-End Developer]**; I'm a tech enthusia
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-001D26?style=flat-square&logo=adobe-photoshop&logoColor=31A8FF)
 ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=1F7AEB)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
-
 ## Featured Projects 💻
 
 ### [Project 1 Title](project_1_link)

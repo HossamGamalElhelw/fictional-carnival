@@ -7,7 +7,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Embedded System Engineer & Front-End Developer]** with experience in **[C , Microcontroller , Arm , Rots & Python , JavaScript , Html , Css , React.js]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **[Embedded System Engineer & Front-End Developer]** with experience in **[C , Microcontroller 8051 , Arm , Rots , Python , JavaScript , Html , Css , React.js]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Embedded System interfacing]**
 - 🔭 Working on: **[Freelance]**
